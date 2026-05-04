@@ -1,0 +1,10 @@
+:root{
+    background-color : lightcoral ;
+
+}
+body{
+    background-color : var(background-color) ;
+}
+h1{
+    text-align : center ;
+}
