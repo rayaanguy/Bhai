@@ -10,7 +10,7 @@
 
   ##  3) Technology and tools used ÷
   
-  This website created using html and css and in 2nd page font tool was used
+  This website created using html and css and js also in 2nd page font tool was used
 
    ##  4) Inspiration ÷
    
