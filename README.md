@@ -1,22 +1,22 @@
 # blog site
 
-1) ## Description ÷
+ ## 1) Description ÷
    
  This is a blog site about Kolkata made using html css and js
 
-  ##  Instructions on how to try your project out ÷
+  ## 2)  Instructions on how to try your project out ÷
    
  You can access the blog by clicking on this link  https://blogop.netlify.app
 
-  ## Technology and tools used ÷
+  ##  3) Technology and tools used ÷
   
   This website created using html and css and in 3rd page font tool was used
 
-   ## Inspiration ÷
+   ##  4) Inspiration ÷
    
 I live in Kolkata i thought to create a blog about Kolkata
 
-  ## Things i wanna say ÷
+  ##  5) Things I wanna say ÷
   
    I wanna say new update would come if it is bad sorry for that
 
