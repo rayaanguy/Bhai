@@ -1,6 +1,6 @@
 # blog site
 
-1) description
+1) ## description
    
  This is a blog site about Kolkata made using html css and js
 
